@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "ad24bed5f58b2aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "298bc1c7af33cd70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3617224cf32281c5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RETI_LOGICHE.md",
+                "mode": "source",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a502ef77d583def",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2170255121d088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e009b132b638fe14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f11357998010ad80",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cd96447f2675c3b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "98d0de2d3b7ff97a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e647c1c653f22aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f97bc9c37b7f2341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RETI_LOGICHE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a09e146f20947113",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RETI_LOGICHE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f96835f492d9b7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6612424d11f03f68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RETI_LOGICHE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3617224cf32281c5",
+  "lastOpenFiles": [
+    "markdown_files/gate.md",
+    "RETI_LOGICHE.md",
+    "Pasted image 20230225124255.png",
+    "astrazione.md",
+    "diagrammi ad occhio.md",
+    "Pasted image 20230223225038.png",
+    "Pasted image 20230223224338.png",
+    "Pasted image 20230223224204.png",
+    "Pasted image 20230223223757.png",
+    "Pasted image 20230223223556.png",
+    "Pasted image 20230223223544.png",
+    "Pasted image 20230223223343.png",
+    "Pasted image 20230223223316.png",
+    "Pasted image 20230223223123.png",
+    "segnali binari.md",
+    "gate.md",
+    "Reti Logiche_old/reti logiche_old.md",
+    "rete logica.md",
+    "interruttore.md",
+    "codice binario.md",
+    "Reti Logiche_old/gates/Gate NOT_old.md",
+    "Reti Logiche_old/images/astrazione.md",
+    "images",
+    "bit.md",
+    "Reti Logiche_old/segnali binari_old.md",
+    "Reti Logiche_old/segnali_old.md",
+    "Untitled.md",
+    "segnali digitali.md",
+    "segnali analogici.md",
+    "macchina digitale.md",
+    "Reti Logiche_old/gates/Gate OR_old.md",
+    "Reti Logiche_old/gates/Gate EXOR_old.md",
+    "Reti Logiche_old/gates/Gate AND_old.md",
+    "Reti Logiche_old/sistemi embedded_old.md",
+    "Reti Logiche_old/simbolo circuitale_old.md",
+    "Reti Logiche_old/macchine digitali_old.md",
+    "Reti Logiche_old/livelli di astrazione_old.md",
+    "Reti Logiche_old/gates",
+    "Reti Logiche_old/images"
+  ]
+}
