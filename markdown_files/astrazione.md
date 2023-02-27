@@ -4,7 +4,7 @@ Ogni livello di un sistema complesso individua componenti primitivila cui strutt
 	- aumenta il numero di entità
 	- diminuisce la complessità
 
-1. *esempio: *
+1. #esempio 
 	printf in C, la usiamo senza sapere come è fatta
-2. *esempio: *
+2. #esempio 
 	![[Pasted image 20230223225038.png]]
