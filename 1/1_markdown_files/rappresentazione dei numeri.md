@@ -13,3 +13,5 @@ In base $\beta$ avrò $\beta$ cifre possibili; per basi >10 si usano i caratteri
 
 La **base 16** è spesso usata per rappresentare lunghe stringhe di numeri binari in modo compatto. (*indirizzi di memoria*)
 ![[cambio base]]
+
+- per rappresentare un numero senza segno in una [[macchina digitale]], si usa la rappresentazione in base 2. 

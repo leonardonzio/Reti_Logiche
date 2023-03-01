@@ -14,3 +14,5 @@ Si usa il **metodo di conversione iterativa**.
 ![[metodo di conversione iterativa]]
 
 # base $\neq$ 10 $\to$ base $\neq 10$
+passare da $\beta \to 10 \to \beta*$
+

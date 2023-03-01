@@ -1,0 +1,3 @@
+- due configurazioni adiacenti differisconno per il valore di un solo bit (non accade nel [[codice binario]]).
+- usato per codificare la posizione
+	- ridurre sorgenti di errore nel converitre [[segnali analogici|segnale analogico]] e [[segnali digitali|digitale]]

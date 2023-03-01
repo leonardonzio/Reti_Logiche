@@ -87,3 +87,15 @@ Per essere più leggibile dalla macchina inizia col bianco e finisce col nero se
 
 ![[rappresentazione dei numeri]]
 
+## Codice di Gray
+![[codice di Gray]]
+
+# Conversione di Codice: trascodifica
+![[trascodifica]]
+
+
+# Codice ASCII
+![[codice ASCII]]
+
+# Unicode
+![[unicode]]
