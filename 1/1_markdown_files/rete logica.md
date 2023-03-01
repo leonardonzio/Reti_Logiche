@@ -6,5 +6,5 @@ Una rete logica è un'[[astrazione]] per una combinazione di [[interruttore|inte
 
 cos'è: 
 modello astratto che assume come primitive alcune semplici elaborazioni di [[segnali binari]] ( [[gate]]) e permette di dedurre:
-1. **struttura** di un dato **comportamento** ([[sintesi]])
-2. **comportamento** di una data **struttura**([[analisi]])
+1. **struttura** di un dato **comportamento** (**sintesi**)
+2. **comportamento** di una data **struttura**(**analisi**)
