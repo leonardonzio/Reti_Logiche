@@ -3,22 +3,22 @@
 - i componenti elementari (funzioni) sono quindi 4.
 - tolte identità e costanti, rimane una funziona: l'operatore NOT
 
-1. ## Gate NOT
+## Gate NOT
 ![[Pasted image 20230223223123.png]]
 # Gate con 2 ingressi
 $2^{2^n}$ con $n=2$, dunque 16 possibili funzioni elementari
 
-2. ## Gate AND
+## Gate AND
 - [[astrazione]] di due [[interruttore|interruttori]] in **serie**:
 	![[Pasted image 20230223223316.png]]
 - ![[Pasted image 20230223223343.png]]
 
-3. ## Gate OR
+## Gate OR
 - [[astrazione]] di due [[interruttore|interruttori]] in **parallelo**:
 	![[Pasted image 20230223223544.png]]
 - ![[Pasted image 20230223223556.png]]
 
-4. ## Gate EXOR
+## Gate EXOR
 - EXCLUSIVE OR
 - astrazione di due deviatori
 - assume valore 1 se un ingresso ha valore 1 ma non entrambi
@@ -30,9 +30,9 @@ $2^{2^n}$ con $n=2$, dunque 16 possibili funzioni elementari
 - EXOR vale 1 se se e solo se il numero di '1' in ingresso è dispari
 
 # Gate negati:
-1. NAND
-2. NOR
-3. EXNOR
+## NAND
+## NOR
+## EXNOR
 
 ![[Pasted image 20230223224204.png]]
 

@@ -1,4 +1,3 @@
-## rete logica definizione:
 ![[rete logica#definizione]]
 
 #esempio 
@@ -6,7 +5,7 @@ esempio di **macchina combinatoria**:
 - [[trascodifica]] codice BCD/7 segmenti
 	7 uscite univocamente determinate dal valore corrente dei 4 ingressi che codificano un numero senza segno tra 0 e 9.
 - il dizionario
-
+#esempio 
 ## Cassaforte
 - macchina con due ingressi (x,y) ed un uscita (z)
 - z = 0/1 cassaforte chiusa/aperta
@@ -91,9 +90,26 @@ $\implies$ valutando un'espressione per tutte le $2^n$ configurazioni, ottengo l
 
 3. relazione 3: Ogni espressione descrive una e una sola [[tabella della verità]] **completamente specificata**
 
+4. Relazione 4: Una **funzione** può essere descritta da una molteplicità di [[espressione|espressioni]]
+
+- problema della [[#Fase di sintesi: da comportamento a struttura|sintesi]]: partendo da un comportamento dato come [[tabella della verità|TDV]], quali [[schema logico|schemi logici]] scegliere?
+	- uno dei modi è tramite le **espressioni canoniche**
+
+## espressioni canoniche
+![[espressioni canoniche]]
+
+## Full adder
+![[full adder]]
+
+
 # Fase di analisi
 - risultato univoco: partendo da un dato [[schema logico]] o da un’[[espressione]], si può determinare in modo univoco il **comportamento** (la [[tabella della verità]]) che realizzano 
 ![[Pasted image 20230303154205.png]]
 
-Relazione 4: Una **funzione** può essere descritta da una molteplicità di [[espressione|espressioni]]
+
+
+
+
+
+
 
